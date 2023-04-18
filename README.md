@@ -6,4 +6,8 @@
 
 -Si el usuario encuentra todas las parejas, ganará el juego y se mostrará un mensaje de felicitación junto con el tiempo que tardó en completar el juego y el número de movimientos realizados.
 
-Link del juego en About 👉
+Dino Ferré 👽
+
+Link del proyecto 👇
+
+https://dinoferre.github.io/Juego-De-Memoria/
